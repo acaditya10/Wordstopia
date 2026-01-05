@@ -154,7 +154,7 @@ const App: React.FC = () => {
       {/* Footer Branding */}
       <footer className="w-full mt-auto py-8 text-center">
         <p className="text-sm font-medium text-slate-500 dark:text-slate-400">
-          Made by <span className="text-primary font-semibold">Ifrah Ali</span> in collaboration with <span className="text-primary font-semibold">Aditya Chandra</span>
+          Made by <span className="text-primary font-semibold">Ifrah Ali</span> <br /> in collaboration with <span className="text-primary font-semibold">Aditya Chandra</span>
         </p>
       </footer>
     </div>
